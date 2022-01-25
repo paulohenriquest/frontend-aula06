@@ -1,0 +1,138 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: black;
+}
+
+.geral {
+    width: 80%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* display: flex; */
+    margin: 0 auto;
+    text-align: center;
+    border: solid 1px grey;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.g {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.gg {
+    background: rgb(48, 47, 47);
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.g1 {
+    
+    background: rgb(48, 47, 47);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+
+.g21 {
+    
+    width: 50%;
+}
+
+.g22 {
+    
+    width: 50%;
+}
+
+
+
+.g31 {
+    width: 33.3%;
+}
+
+.g32 {
+    width: 33.3%;
+}
+
+.g33 {
+    width: 33.3%;
+}
+
+.g41 {
+    width: 25%;
+}
+
+.g42 {
+    width: 25%;
+}
+
+.g43 {
+    width: 25%;
+}
+
+.g44 {
+    width: 25%;
+}
+
+.g51 {
+    width: 5%;
+}
+
+.g52 {
+    width: 95%;
+}
+
+.g61 {
+    width: 10%;
+}
+
+.g62 {
+    width: 90%;
+}
+
+.g71 {
+    width: 20%;
+}
+
+.g72 {
+    width: 80%;
+}
+
+.g81 {
+    width: 30%;
+}
+
+.g82 {
+    width: 70%;
+}
+
+.g91 {
+    width: 40%;
+}
+
+.g92 {
+    width: 60%;
+}
+
+.g101 {
+    width: 50%;
+}
+
+.g102 {
+    width: 50%;
+}
+
+
+
+
