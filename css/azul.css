@@ -53,6 +53,10 @@ body {
     padding: 10px;
 }
 
+.gs:hover {
+    background: rgb(29, 29, 56);
+}
+
 .g4 {
     width: 60%;
 }
